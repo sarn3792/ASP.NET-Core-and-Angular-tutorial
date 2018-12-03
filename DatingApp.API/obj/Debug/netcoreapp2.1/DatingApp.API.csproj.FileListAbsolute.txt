@@ -12,3 +12,17 @@ C:\Users\Samuel\Documents\ASP.NET CORE and Angular tutorial\DatingApp.API\obj\De
 C:\Users\Samuel\Documents\ASP.NET CORE and Angular tutorial\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\Samuel\Documents\ASP.NET CORE and Angular tutorial\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\Samuel\Documents\ASP.NET CORE and Angular tutorial\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingApp.API.deps.json
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.json
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfo.cs
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
+C:\Users\sramirez\Documents\Developments\Personal\ASP.NET-Core-and-Angular-tutorial\DatingAPP.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
