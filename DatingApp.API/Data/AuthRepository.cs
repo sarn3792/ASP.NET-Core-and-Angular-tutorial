@@ -11,7 +11,6 @@ namespace DatingApp.API.Data
         public AuthRepository(DataContext context)
         {
             this._context = context;
-
         }
         public async Task<User> Login(string username, string password)
         {
